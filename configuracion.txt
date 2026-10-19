@@ -1,4 +1,8 @@
 BIBLIOTECA FP - CONFIGURACIÓN
+<<<<<<< HEAD
 Plazo de préstamo: 21 días
+=======
+Plazo de préstamo: 21 días
+>>>>>>> cambio-ana
 Máximo de libros: 2
 Estado: Activo
